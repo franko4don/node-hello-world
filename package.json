@@ -4,6 +4,7 @@
   "description": "A Node.js app to show continuous deployment",
   "main": "index.js",
   "scripts": {
+    "start": "npm run server",
     "server": "node index.js"
   },
   "keywords": [
